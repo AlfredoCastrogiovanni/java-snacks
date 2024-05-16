@@ -16,9 +16,9 @@ public class Snack7 {
         int remainingSeconds = seconds % 60;
 
         System.out.println(
-                (hours < 10 ? String.format("0%s", hours): hours) + ":" +
-                (minutes < 10 ? String.format("0%s", minutes): minutes) + ":" +
-                (remainingSeconds < 10 ? String.format("0%s", remainingSeconds): remainingSeconds)
+                (hours < 10 ? String.format("0%s", hours) : hours) + ":" +
+                (minutes < 10 ? String.format("0%s", minutes) : minutes) + ":" +
+                (remainingSeconds < 10 ? String.format("0%s", remainingSeconds) : remainingSeconds)
             );
 
         scanner.close();
