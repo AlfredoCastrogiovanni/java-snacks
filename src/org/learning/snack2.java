@@ -2,7 +2,7 @@ package org.learning;
 
 import java.util.Random;
 
-public class snack2 {
+public class Snack2 {
     public static void main(String[] args) {
         Random random = new Random();
 

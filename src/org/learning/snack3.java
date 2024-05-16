@@ -1,6 +1,6 @@
 package org.learning;
 
-public class snack3 {
+public class Snack3 {
     public static void main(String[] args) {
         int[] array = {1, 2, 3, 4, 5, 6, 7, 8, 9};
         int sum = 0;
